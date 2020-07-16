@@ -1,0 +1,26 @@
+header {
+    text-align: center;
+    background-color: rgb(104, 114, 211);
+    border: black 3px solid;
+    padding: 40px;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+input {
+    height: 100px;
+    width: 200px;
+    font-size: 25px;
+    text-align: center;
+}
+
+button {
+    border: black 5px inset;
+    background-color: rgb(236, 235, 235);
+    width: 100px;
+}
+
+button:hover {
+    cursor: crosshair;
+}
